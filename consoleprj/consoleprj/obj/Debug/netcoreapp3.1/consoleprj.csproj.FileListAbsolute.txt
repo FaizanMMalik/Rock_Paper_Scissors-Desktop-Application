@@ -1,0 +1,28 @@
+F:\prj\consoleprj\consoleprj\bin\Debug\netcoreapp3.1\consoleprj.exe
+F:\prj\consoleprj\consoleprj\bin\Debug\netcoreapp3.1\consoleprj.deps.json
+F:\prj\consoleprj\consoleprj\bin\Debug\netcoreapp3.1\consoleprj.runtimeconfig.json
+F:\prj\consoleprj\consoleprj\bin\Debug\netcoreapp3.1\consoleprj.runtimeconfig.dev.json
+F:\prj\consoleprj\consoleprj\bin\Debug\netcoreapp3.1\consoleprj.dll
+F:\prj\consoleprj\consoleprj\bin\Debug\netcoreapp3.1\consoleprj.pdb
+F:\prj\consoleprj\consoleprj\obj\Debug\netcoreapp3.1\consoleprj.csproj.AssemblyReference.cache
+F:\prj\consoleprj\consoleprj\obj\Debug\netcoreapp3.1\consoleprj.GeneratedMSBuildEditorConfig.editorconfig
+F:\prj\consoleprj\consoleprj\obj\Debug\netcoreapp3.1\consoleprj.AssemblyInfoInputs.cache
+F:\prj\consoleprj\consoleprj\obj\Debug\netcoreapp3.1\consoleprj.AssemblyInfo.cs
+F:\prj\consoleprj\consoleprj\obj\Debug\netcoreapp3.1\consoleprj.csproj.CoreCompileInputs.cache
+F:\prj\consoleprj\consoleprj\obj\Debug\netcoreapp3.1\consoleprj.dll
+F:\prj\consoleprj\consoleprj\obj\Debug\netcoreapp3.1\consoleprj.pdb
+F:\prj\consoleprj\consoleprj\obj\Debug\netcoreapp3.1\consoleprj.genruntimeconfig.cache
+E:\BSIT\6th\PDC\pdc dump\prj\consoleprj\consoleprj\bin\Debug\netcoreapp3.1\consoleprj.exe
+E:\BSIT\6th\PDC\pdc dump\prj\consoleprj\consoleprj\bin\Debug\netcoreapp3.1\consoleprj.deps.json
+E:\BSIT\6th\PDC\pdc dump\prj\consoleprj\consoleprj\bin\Debug\netcoreapp3.1\consoleprj.runtimeconfig.json
+E:\BSIT\6th\PDC\pdc dump\prj\consoleprj\consoleprj\bin\Debug\netcoreapp3.1\consoleprj.runtimeconfig.dev.json
+E:\BSIT\6th\PDC\pdc dump\prj\consoleprj\consoleprj\bin\Debug\netcoreapp3.1\consoleprj.dll
+E:\BSIT\6th\PDC\pdc dump\prj\consoleprj\consoleprj\bin\Debug\netcoreapp3.1\consoleprj.pdb
+E:\BSIT\6th\PDC\pdc dump\prj\consoleprj\consoleprj\obj\Debug\netcoreapp3.1\consoleprj.csproj.AssemblyReference.cache
+E:\BSIT\6th\PDC\pdc dump\prj\consoleprj\consoleprj\obj\Debug\netcoreapp3.1\consoleprj.GeneratedMSBuildEditorConfig.editorconfig
+E:\BSIT\6th\PDC\pdc dump\prj\consoleprj\consoleprj\obj\Debug\netcoreapp3.1\consoleprj.AssemblyInfoInputs.cache
+E:\BSIT\6th\PDC\pdc dump\prj\consoleprj\consoleprj\obj\Debug\netcoreapp3.1\consoleprj.AssemblyInfo.cs
+E:\BSIT\6th\PDC\pdc dump\prj\consoleprj\consoleprj\obj\Debug\netcoreapp3.1\consoleprj.csproj.CoreCompileInputs.cache
+E:\BSIT\6th\PDC\pdc dump\prj\consoleprj\consoleprj\obj\Debug\netcoreapp3.1\consoleprj.dll
+E:\BSIT\6th\PDC\pdc dump\prj\consoleprj\consoleprj\obj\Debug\netcoreapp3.1\consoleprj.pdb
+E:\BSIT\6th\PDC\pdc dump\prj\consoleprj\consoleprj\obj\Debug\netcoreapp3.1\consoleprj.genruntimeconfig.cache

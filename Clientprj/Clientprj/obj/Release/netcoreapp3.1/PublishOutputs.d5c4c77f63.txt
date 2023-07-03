@@ -1,0 +1,5 @@
+F:\prj app\Clientprj.exe
+F:\prj app\Clientprj.dll
+F:\prj app\Clientprj.deps.json
+F:\prj app\Clientprj.runtimeconfig.json
+F:\prj app\Clientprj.pdb

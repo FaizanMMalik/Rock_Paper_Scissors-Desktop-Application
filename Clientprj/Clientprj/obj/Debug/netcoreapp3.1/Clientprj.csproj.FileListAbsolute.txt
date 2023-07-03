@@ -1,0 +1,40 @@
+F:\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.csproj.AssemblyReference.cache
+F:\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.Game.resources
+F:\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.login.resources
+F:\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.Properties.Resources.resources
+F:\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.csproj.GenerateResource.cache
+F:\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.GeneratedMSBuildEditorConfig.editorconfig
+F:\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.AssemblyInfoInputs.cache
+F:\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.AssemblyInfo.cs
+F:\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.csproj.CoreCompileInputs.cache
+F:\prj\Clientprj\Clientprj\bin\Debug\netcoreapp3.1\Clientprj.exe
+F:\prj\Clientprj\Clientprj\bin\Debug\netcoreapp3.1\Clientprj.deps.json
+F:\prj\Clientprj\Clientprj\bin\Debug\netcoreapp3.1\Clientprj.runtimeconfig.json
+F:\prj\Clientprj\Clientprj\bin\Debug\netcoreapp3.1\Clientprj.runtimeconfig.dev.json
+F:\prj\Clientprj\Clientprj\bin\Debug\netcoreapp3.1\Clientprj.dll
+F:\prj\Clientprj\Clientprj\bin\Debug\netcoreapp3.1\Clientprj.pdb
+F:\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.dll
+F:\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.pdb
+F:\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.genruntimeconfig.cache
+F:\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.ChatBox.resources
+F:\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.SC.resources
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\bin\Debug\netcoreapp3.1\Clientprj.exe
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\bin\Debug\netcoreapp3.1\Clientprj.deps.json
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\bin\Debug\netcoreapp3.1\Clientprj.runtimeconfig.json
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\bin\Debug\netcoreapp3.1\Clientprj.runtimeconfig.dev.json
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\bin\Debug\netcoreapp3.1\Clientprj.dll
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\bin\Debug\netcoreapp3.1\Clientprj.pdb
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.csproj.AssemblyReference.cache
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.ChatBox.resources
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.Game.resources
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.login.resources
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.Properties.Resources.resources
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.SC.resources
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.csproj.GenerateResource.cache
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.GeneratedMSBuildEditorConfig.editorconfig
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.AssemblyInfoInputs.cache
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.AssemblyInfo.cs
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.csproj.CoreCompileInputs.cache
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.dll
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.pdb
+E:\BSIT\6th\PDC\pdc dump\prj\Clientprj\Clientprj\obj\Debug\netcoreapp3.1\Clientprj.genruntimeconfig.cache
